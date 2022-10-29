@@ -1,0 +1,21 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "devstart": "nodemon app.js"
+  },
+  "author": "hyni suasanna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "module": "^1.2.5",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
